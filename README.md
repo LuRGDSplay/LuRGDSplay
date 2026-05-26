@@ -1,4 +1,6 @@
-<img width="498" height="278" alt="TokyoGhoulGIF (2)" src="https://github.com/user-attachments/assets/5ac405de-5dd3-43a4-9a2c-a6f27815b92a" />
+
+<img width="1199" height="398" alt="image" src="https://github.com/user-attachments/assets/e611ec13-b690-4d36-9174-08b7d05c7d93" />
+
 
  
 Olá, meu nome é Luiza ᓚᘏᗢ
@@ -13,6 +15,8 @@ Gosto de jogar videogame, ouvir música, desenhar e assistir anime. ( •̀ ω �
 ∞ Não gosto de física e tenho dificuldade para entender as coisas.┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
 
 ⌖  Belo Horizonte, Minas Gerais 
+
+<img width="1200" height="245" alt="image" src="https://github.com/user-attachments/assets/44fab7e4-e15a-4517-903c-77a05188806a" />
 
 O que estou aprendendo no cursoo(*≧▽≦)ツ┏━┓
 ---
