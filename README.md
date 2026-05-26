@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**LuRGDSplay/LuRGDSplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Luiza ᓚᘏᗢ
+---
+Tenho 16 anos.
 
-Here are some ideas to get you started:
+Gosto de jogar videogame, ouvir música, desenhar e assistir anime. ( •̀ ω •́ )✧
+- Meus jogos favoritos são Resident Evil, Roblox, etc.
+- Meus animes favoritos são Tokyo Ghoul, Chainsaw Man, Toradora, etc.
+- Meus gêneros musicais favoritos são rock, pop, Vocaloid e J-pop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Não gosto de física e tenho dificuldade para entender as coisas.
+O que estou estudando no curso ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+
+O que estou aprendendo no curso
+---
+- Arquitetura de Hardware e Software
+- Fundamentos de UI/UX
+- Lógica de Programação
+- Segurança da Informação e Proteção de Dados
+- Versionamento e Colaboração
+- Inovação Social e Científica e Empreendedorismo
+github, figma, veritas, git, etc...
