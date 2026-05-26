@@ -1,4 +1,6 @@
+<img width="498" height="278" alt="TokyoGhoulGIF (2)" src="https://github.com/user-attachments/assets/5ac405de-5dd3-43a4-9a2c-a6f27815b92a" />
 
+ 
 Olá, meu nome é Luiza ᓚᘏᗢ
 ---
 Tenho 16 anos.
@@ -21,4 +23,5 @@ O que estou aprendendo no cursoo(*≧▽≦)ツ┏━┓
 - Versionamento e Colaboração
 - Inovação Social e Científica e Empreendedorismo
 github, figma, veritas, git, etc...
-<img width="1360" height="480" alt="image" src="https://github.com/user-attachments/assets/54c4f4cc-1362-456a-b127-062830a9d5ac" />
+
+
