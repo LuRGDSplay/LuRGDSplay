@@ -31,4 +31,5 @@ O que estou aprendendo no cursoo(*≧▽≦)ツ┏━┓
 - Inovação Social e Científica e Empreendedorismo
 github, figma, veritas, git, etc...
 
+oi
 
