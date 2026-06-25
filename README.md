@@ -1,6 +1,4 @@
-
-<img width="1199" height="398" alt="image" src="https://github.com/user-attachments/assets/e611ec13-b690-4d36-9174-08b7d05c7d93" />
-
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/48f1ae3a-adc7-4770-b950-1776375748e7" />
 
  
 Olá, meu nome é Luiza ᓚᘏᗢ
@@ -18,8 +16,7 @@ Gosto de jogar videogame, ouvir música, desenhar e assistir anime. ( •̀ ω �
 ∞ Não gosto de física e tenho dificuldade para entender as coisas.┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
 
 ⌖  Belo Horizonte, Minas Gerais 
-
-<img width="1200" height="245" alt="image" src="https://github.com/user-attachments/assets/44fab7e4-e15a-4517-903c-77a05188806a" />
+<img width="1200" height="353" alt="image" src="https://github.com/user-attachments/assets/d2bdb8d1-1942-42c5-a2d1-c1c45b8024de" />
 
 O que estou aprendendo no cursoo(*≧▽≦)ツ┏━┓
 ---
